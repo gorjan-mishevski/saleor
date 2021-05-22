@@ -15,16 +15,15 @@
 <br>
 
 <div align="center">
-
-Join our active, engaged community: <br>
-<a href="https://saleor.io/">Website</a>
-<span> | </span>
-<a href="https://medium.com/saleor">Blog</a>
-<span> | </span>
-<a href="https://twitter.com/getsaleor">Twitter</a>
-<span> | </span>
-<a href="https://gitter.im/mirumee/saleor">Gitter</a>
-<span> | </span>
+  Join our active, engaged community: <br>
+  <a href="https://saleor.io/">Website</a>
+  <span> | </span>
+  <a href="https://medium.com/saleor">Blog</a>
+  <span> | </span>
+  <a href="https://twitter.com/getsaleor">Twitter</a>
+  <span> | </span>
+  <a href="https://gitter.im/mirumee/saleor">Gitter</a>
+  <span> | </span>
 <a href="https://spectrum.chat/saleor">Spectrum</a>
 
 </div>
