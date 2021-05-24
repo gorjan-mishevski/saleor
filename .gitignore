@@ -28,9 +28,7 @@ coverage/
 dist/
 *\.egg*
 # data
-/media/
 /node_modules/
-/static/
 
 # Exported results file
 django-queries-results.html
